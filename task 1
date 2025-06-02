@@ -1,0 +1,12 @@
+i = input ('Enter the first number')
+i = float (i)
+j = input ('Enter the second number')
+j = float (j)
+sum = i+j 
+sub = i-j
+product = i*j
+divd = i/j
+print ("Addtion:", sum)
+print ('Subtraction:', sub)
+print ('Multiplication:', product)
+print ('Division', divd)

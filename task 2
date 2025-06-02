@@ -1,0 +1,5 @@
+i = input ('Enter the first name:')
+j = input ('Enter your last name:')
+full_name = i + " " +j 
+print ('Hello,' , full_name + '!', 'Welcome to the Python program')
+
